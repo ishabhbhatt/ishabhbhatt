@@ -1,16 +1,38 @@
-## Hi there 👋
 
-<!--
-**ishabhbhatt/ishabhbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ishabh Bhatt 👋
 
-Here are some ideas to get you started:
+### B.Tech CSE Student | Aspiring Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing B.Tech in Computer Science and Engineering at Dev Bhoomi University, Dehradun.
+
+I am interested in programming, web development, artificial intelligence, and building practical software projects.
+
+## 💻 Technical Skills
+
+- Python
+- Java
+- Machine learning
+- HTML & CSS
+- Git & GitHub
+
+## 🚀 My Projects
+
+- Python College Programs
+- Java College Programs
+- SIH Mini Project
+
+## 🎯 Currently Learning
+
+- Frontend Web Development
+- Data Structures and Algorithms
+- Artificial Intelligence
+
+## 🎓 Education
+
+B.Tech – Computer Science and Engineering
+Dev Bhoomi University, Dehradun
+
+## 📫 Connect With Me
+
+- GitHub: [My GitHub Profile](https://github.com/ishabhbhatt)
+- LinkedIn: [MY Linkedin profile](www.linkedin.com/in/ishabh-bhatt-36aa79435)
